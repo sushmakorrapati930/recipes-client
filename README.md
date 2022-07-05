@@ -19,3 +19,5 @@ It uses Bootstrap styles and reactstrap, which creates Bootstrap components, to 
 npm install
 ```
 
+![image](https://github.com/sushmakorrapati930/recipes-client/blob/main/MainScreen.png)
+![image](https://github.com/sushmakorrapati930/recipes-client/blob/main/EditScreen.png)
