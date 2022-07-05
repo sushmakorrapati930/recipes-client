@@ -1,7 +1,5 @@
 # Recipes App Front End
 
-![image](https://github.com/sushmakorrapati930/recipes-client/blob/main/MainScreen.png)
-![image](https://github.com/sushmakorrapati930/recipes-client/blob/main/MainScreen.png)
 
 This is the React frontend that goes with the [Recipes API backend](https://github.com/sushmakorrapati930/RecipesBackend)
 
