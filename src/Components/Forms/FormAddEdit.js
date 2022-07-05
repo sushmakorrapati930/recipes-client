@@ -20,7 +20,6 @@ class AddEditForm extends React.Component {
 
   submitFormAdd = e => {
     e.preventDefault()
-    alert(this.state.category);
     fetch('http://localhost:3001/api/recipes', {
       method: 'post',
       headers: {
@@ -69,7 +68,7 @@ class AddEditForm extends React.Component {
       .then(item => {
         if(item) {
           // console.log(item[0])
-          alert(item.id)
+          
           this.props.updateState(item)
           this.props.toggle()
         } else {
