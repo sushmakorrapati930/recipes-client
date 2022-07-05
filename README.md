@@ -1,6 +1,6 @@
 # Recipes App Front End
 
-![image](https://github.com/olinations/crud-starter-frontend/blob/master/template.png)
+![image]()
 
 This is the React frontend that goes with the [Recipes API backend](https://github.com/sushmakorrapati930/RecipesBackend). I
 
